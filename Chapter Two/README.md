@@ -51,3 +51,10 @@ int main(void)
     return 0;
 }
 请问在第 7 行、第 8 行和第 9 行之后程序的状态分别是什么？
+
+
+测试中文回车  
+测试中文回车
+
+test English 
+test
