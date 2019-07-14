@@ -42,11 +42,6 @@ d.  int num;
 int main(void)
 {
     int a , b;
-    abc
-    dasdasdadada
-    dsdsad
-    
-    123
 
     a = 5;
     b = 2;  /* 第7行 */
