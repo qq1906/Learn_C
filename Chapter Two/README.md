@@ -34,4 +34,17 @@ d.  int num;
 
 7. 如何以下面的格式输出 words 和 lines 的值：“There were 3020 words and 350 lines”？这里，3020 和 350 代表两个变量的值。
 
-8.
+8. 考虑下面的程序：
+#include <stdio.h>
+int main(void)
+{
+    int a , b;
+
+    a = 5;
+    b = 2;  /* 第7行 */
+    b = a;
+    a = b;
+    printf("%d %d\n", b, a);
+    return 0;
+}
+请问在第 7 行、第 8 行和第 9 行之后程序的状态分别是什么？
