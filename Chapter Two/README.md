@@ -22,7 +22,7 @@ int main{void} /* 该程序可显示一年中有多少个周 */
   
 5.假设下面的每一个例子都是某个完整程序的一部分，它们每个将输出什么结果？  
 a. printf("Baa Baa Sheep.");  
-   printf("Have you any wool?\n");  
+   printf("Have you any wool?\n");   
   
 b. printf("Begone!\nO creature of lard!");  
   
