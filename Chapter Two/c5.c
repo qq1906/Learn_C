@@ -13,16 +13,14 @@ int main(void)
     n3 = n2 * n2;
     printf("n = %d, n squared = %d, n cubed = %d\n", n, n2, n3);
 
-    system("pause");
     return 0;
 }
 
 /*
 2019年05月04日10:47
-运行环境 win10 + vscode 1.33.1 + MinGW 6.3.0
+运行环境 Centos7 + vscode 1.36.1 + gcc 4.8.5
 运行结果：
 
 n = 5, n squared = 25, n cubed = 625
-请按任意键继续. . .
 
  */

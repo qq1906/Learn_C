@@ -10,7 +10,6 @@ int main(void)
     printf("computer.\n");
     printf("My favorite number is %d because it is first.\n", num);
 
-    system("pause");
     return 0;
 }
 
@@ -18,11 +17,10 @@ int main(void)
 
 /*
 2019年05月04日10:47
-运行环境 win10 + vscode 1.36.1 + MinGW 6.3.0
+运行环境 Centos7 + vscode 1.36.1 + gcc 4.8.5
 运行结果：
 
 I am a simple computer.
 My favorite number is 1 because it is first.
-请按任意键继续. . .
 
  */
